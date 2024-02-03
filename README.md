@@ -67,15 +67,18 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,jquery&theme=dark" />
   </a>
 </p>
+
 <br>
 <hr>
 <br>
 
+<p>
 <h3 align="left">Softwares</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark" />
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
