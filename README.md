@@ -64,13 +64,13 @@
 <br>
 <hr>
 <br>
-[![My Skills ](https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills ](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <p align="center">
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark" />
   </a>
 </p>
 
