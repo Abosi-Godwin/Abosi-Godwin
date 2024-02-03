@@ -64,16 +64,20 @@
 <br>
 <hr>
 <br>
-[![My Skills ](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <p align="center">
 
+<h3 align="left">Technologies</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark" />
   </a>
 </p>
 
+<h3 align="left">Softwares</h3>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark" />
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
