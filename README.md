@@ -69,9 +69,9 @@
 
 <p align="center">
 
-  
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
