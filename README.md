@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JavaScript (ES6) HTML5 AND CSS3**
 
-- 📫 How to reach me **bbnl6060@gmail.co**
+- 📫 How to reach me **bbnl6060@gmail.com**
 
 <br>
 <hr>
