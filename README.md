@@ -18,20 +18,16 @@
 
 - 📫 How to reach me **bbnl6060@gmail.com**
 
-<br>
+
 <hr>
 <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abosi-godwin&label=Profile%20views&color=0e75b6&style=flat" alt="abosi-godwin" /> </p>
 
-<br>
-<hr>
-<br>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abosi-Godwin&theme=darkhub&no-frame=true" alt="abosi-godwin" /></a> </p>
 
-<br>
+
 <hr>
 <br>
 
@@ -56,7 +52,7 @@
 <a href="https://www.leetcode.com/abosi-godwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abosi-godwin" height="30" width="40" /></a>
 </p>
 
-<br>
+
 <hr>
 <br>
 
@@ -68,7 +64,7 @@
   </a>
 </p>
 
-<br>
+
 <hr>
 <br>
 
@@ -139,19 +135,19 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 -->
-<br>
+
 <hr>
 <br>
 
 
 <!-- stats      -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abosi-godwin&theme=github_dark&&show_icons=true&locale=en&layout=compact" alt="abosi-godwin" /></p>
-<br>
+
 <hr>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abosi-godwin&theme=github_dark&show_icons=true&locale=en" alt="abosi-godwin" /></p>
 
-<br>
+
 <hr>
 <br>
 
