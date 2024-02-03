@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abosi Godwin</h1>
+<h1 align="center">Hi, 👋 you wanna take your business online?</h1>
 <h3 align="center">A passionate bespoke Shopify Ecommerce Store Designer & frontend website developer from Nigeria</h3>
 
 <br>
