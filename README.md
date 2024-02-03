@@ -67,6 +67,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,jquery&theme=dark" />
   </a>
 </p>
+<br>
+<hr>
+<br>
 
 <h3 align="left">Softwares</h3>
   <a href="#">
