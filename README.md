@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abosi Godwin</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-
+<h3 align="center">A passionate bespoke Shopify Ecommerce Store Designer & frontend website developer from Nigeria</h3>
 
 <br>
 <hr>
@@ -36,17 +35,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://codepen.io/godwin660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="godwin660" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://dev.to/abosigodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abosigodwin" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://twitter.com/shopify_ecom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shopify_ecom" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://linkedin.com/in/abosigodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abosigodwin" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://stackoverflow.com/users/godwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="godwin" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://codesandbox.com/abosi-godwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abosi-godwin" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://dribbble.com/godspet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="godspet" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://www.behance.net/alhajigoddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alhajigoddy" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://hashnode.com/abosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abosi" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://medium.com/@williams_bob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@williams_bob" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://www.youtube.com/c/abosigodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abosigodwin" height="30" width="40" /></a>
+&nbsp; &nbsp;
 <a href="https://www.leetcode.com/abosi-godwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abosi-godwin" height="30" width="40" /></a>
 </p>
 
