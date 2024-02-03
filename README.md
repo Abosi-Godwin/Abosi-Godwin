@@ -64,7 +64,7 @@
 <br>
 <hr>
 <br>
-[![My Skills and tools](https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills ](https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark)](https://skillicons.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
