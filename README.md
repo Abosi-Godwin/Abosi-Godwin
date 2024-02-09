@@ -1,8 +1,10 @@
 <h1 align="center">Hi, 👋 you wanna take your business online?</h1>
 
+<h3 align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFAA00&vCenter=true&random=false&width=600&lines=A+shopify+store+designing+expert.;Custom+shopify+theme+customization.+;Shopify+ecommerce+store+marketing+expert.;Bespoke+frontend+website+developer.)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate bespoke Shopify Ecommerce Store Designer & frontend website developer from Nigeria</h3>
+</h3>
 
 <br>
 <hr>
@@ -105,14 +107,3 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](#)
-
-<!--- 👋 Hi, I’m @Abosi-Godwin
-- 👀 I’m interested in website development 
-- 🌱 I’m currently learning backend website development 
-- 💞️ I’m looking to collaborate on any website development project 
-- 📫 How to reach me? Message at bbnl6060@gmail.com
---->
-<!---
-Abosi-Godwin/Abosi-Godwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
