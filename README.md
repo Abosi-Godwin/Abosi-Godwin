@@ -109,4 +109,4 @@
 <br>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](#)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower your Shopify store with captivating frontend designs that turn visitors into loyal customers.&type=horizontal&theme=dark)](#)
