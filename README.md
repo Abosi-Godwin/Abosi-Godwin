@@ -62,7 +62,7 @@
 
 <p align="center">
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">Technologies i know</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery&theme=dark" />
   </a>
@@ -73,7 +73,7 @@
 <br>
 
 <p>
-<h3 align="left">Softwares</h3>
+<h3 align="left">Softwares i use</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,xd,blender,codepen,discord,ps,postman,stackoverflow,twitter,webflow,wordpress,firebase,github,gmail,ai,linkedin,netlify,figma,ae&theme=dark" />
   </a>
