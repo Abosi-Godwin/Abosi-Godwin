@@ -99,7 +99,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abosi-godwin&theme=github_dark" alt="abosi-godwin" /></p>
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--- 👋 Hi, I’m @Abosi-Godwin
 - 👀 I’m interested in website development 
