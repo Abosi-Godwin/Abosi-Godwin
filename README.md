@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i am Abosi Godwin</h1>
+<h1 align="center">Hi 👋,<br> i am Abosi Godwin</h1>
 
 <h3 align="center">
 
@@ -110,5 +110,3 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20intoloyal%20customers.&type=horizontal&theme=dark)](#)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower your Shopify store with captivating frontend designs that turn visitors intoloyalcustomers.&type=horizontal&theme=dark)](#)
