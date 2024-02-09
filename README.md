@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 you wanna take your business online?</h1>
+<h1 align="center">Hi 👋, i am Abosi Godwin</h1>
 
 <h3 align="center">
 
