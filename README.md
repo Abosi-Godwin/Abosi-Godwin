@@ -2,8 +2,8 @@
 
 <h3 align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFAA00&vCenter=true&random=false&width=600&lines=A+shopify+store+designing+expert.;Custom+shopify+theme+customization.+;Shopify+ecommerce+store+marketing+expert.;Bespoke+frontend+website+developer." alt="Typing SVG" />
+<a href="#">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFAA00&vCenter=true&random=false&width=600&lines=A+shopify+store+designing+expert.;Custom+shopify+theme+customization.+;Shopify+ecommerce+store+marketing+expert.;Bespoke+frontend+website+developer." alt="Typing SVG" />
 </a>
 
 </h3>
