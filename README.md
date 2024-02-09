@@ -75,7 +75,7 @@
 <p>
 <h3 align="left">Softwares</h3>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,xd,figma&theme=dark" />
   </a>
 </p>
 
