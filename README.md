@@ -110,3 +110,5 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower your Shopify store with captivating frontend designs that turn visitors intoloyalcustomers.&type=horizontal&theme=dark)](#)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower your Shopify store with captivating frontend designs that turn visitors intoloyalcustomers.&type=horizontal&theme=dark)](#)
