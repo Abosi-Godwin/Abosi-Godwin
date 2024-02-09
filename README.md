@@ -41,7 +41,7 @@
 <br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 
 <a href="https://codepen.io/godwin660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="godwin660" height="30" width="40" /></a>
@@ -67,7 +67,7 @@
 
 <p align="center">
 
-<h3 align="left">Technologies i know</h3>
+<h3 align="left">Technologies I Use</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery&theme=dark" />
   </a>
@@ -78,7 +78,7 @@
 <br>
 
 <p>
-<h3 align="left">Softwares i use</h3>
+<h3 align="left">Softwares I Use</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,xd,blender,codepen,discord,ps,postman,stackoverflow,twitter,webflow,wordpress,firebase,github,gmail,ai,linkedin,netlify,figma,ae&theme=dark" />
   </a>
