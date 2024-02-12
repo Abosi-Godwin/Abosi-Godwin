@@ -72,7 +72,7 @@
 
 <h3 align="left">Technologies I Use</h3>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,jquery&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,jquery&theme=dark" />
   </a>
 </p>
 
