@@ -16,15 +16,15 @@
 
 <p align="left"> <a href="https://twitter.com/shopify_ecom" target="blank"><img src="https://img.shields.io/twitter/follow/shopify_ecom?logo=twitter&style=for-the-badge" alt="shopify_ecom" /></a> </p>
 
-- 🔭 I’m currently working on [Solly store](https://solly-store.vercel.app/)
+- 🔭 I’m currently working on: [Solly store](https://solly-store.vercel.app/)
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, ExpressJs and NextJs**
+- 🌱 I’m currently learning: **JavaScript, ReactJs, ExpressJs and NextJs**
 
-- 👨‍💻 All of my projects are available at [https://abosi-godwin.github.io/](https://abosi-godwin.github.io/)
+- 👨‍💻 All of my projects are available at :[https://abosi-godwin.github.io/](https://abosi-godwin.github.io/)
 
-- 💬 Ask me about **JavaScript (ES6) HTML5 AND CSS3**
+- 💬 Ask me about: **JavaScript (ES6) HTML5 AND CSS3**
 
-- 📫 How to reach me **bbnl6060@gmail.com**
+- 📫 How to reach me: **bbnl6060@gmail.com**
 
 
 <hr>
