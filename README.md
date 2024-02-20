@@ -1,3 +1,5 @@
+{% img "https://www.dropbox.com/scl/fi/mjcaemao0osqwxbkbe9ts/smile.b783a28d.png?rlkey=ejmezlgamkqx16nzgcwahsm8t&dl=1" 100% 100% title_text Goddy_Image %}
+
 <h1 align="center">Hi 👋,<br>i am Abosi Godwin</h1>
 
 <h2 align="center">
