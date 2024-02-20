@@ -1,4 +1,4 @@
-<img src="https://www.dropbox.com/scl/fi/mjcaemao0osqwxbkbe9ts/smile.b783a28d.png?rlkey=ejmezlgamkqx16nzgcwahsm8t&dl=1" alt="Abosi Godwin"/>
+<img src="https://pin.it/2DQhuLVTk" alt="Abosi Godwin"/>
 <h1 align="center">Hi 👋,<br>i am Abosi Godwin</h1>
 
 <h2 align="center">
