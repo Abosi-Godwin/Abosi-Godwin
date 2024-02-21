@@ -1,4 +1,4 @@
-<img src="https://pin.it/2DQhuLVTk" alt="Abosi Godwin"/>
+<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 <h1 align="center">Hi 👋,<br>i am Abosi Godwin</h1>
 
 <h2 align="center">
