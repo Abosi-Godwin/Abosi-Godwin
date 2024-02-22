@@ -1,5 +1,5 @@
 <img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
-<h1 align="center">Hi 👋,<br>i am Abosi Godwin</h1>
+<h1 align="center">Hi 👋,<br>I am Abosi Godwin</h1>
 
 <h2 align="center">
  <a href="#">
