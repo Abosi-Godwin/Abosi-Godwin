@@ -104,4 +104,4 @@
 <br>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20intoloyal%20customers.&type=horizontal&theme=dark)](#)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20into%20loyal%20customers.&type=horizontal&theme=dark)](#)
