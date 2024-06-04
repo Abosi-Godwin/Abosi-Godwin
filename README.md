@@ -29,7 +29,7 @@
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abosi-godwin&label=Profile%20views&color=0e75b6&style=flat" alt="abosi-godwin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abosi-godwin&label=Profile%20views&color=ffd43b&style=flat" alt="abosi-godwin" /> </p>
 
 <p align="left"> 
 <a href="#">
