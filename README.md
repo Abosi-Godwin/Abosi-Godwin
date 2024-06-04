@@ -100,19 +100,16 @@ I'm<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abosi-godwin&theme=github_dark" alt="abosi-godwin" /></p>
 
 
-<hr>
-<br>
+<hr/>
+<br/>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
 <a href="https://github.com/Abosi-Godwin/Solly-store" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Solly-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
+<hr/>
 <br/>
 
-<a href="https://github.com/Abosi-Godwin/Test-corrector" align="right"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Test-corrector&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/Abosi-Godwin/Chirp-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Chirp-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Abosi-Godwin/Abosi-Godwin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Abosi-Godwin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20into%20loyal%20customers.&type=horizontal&theme=dark)](#)
