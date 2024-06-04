@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning: **JavaScript, ReactJs, ExpressJs and NextJs**
 
-- 👨‍💻 All of my projects are available at : [https://abosi-godwin.github.io/](https://abosi-godwin.github.io/)
+- 👨‍💻 All of my projects are available : [Here](https://abosi-godwin.github.io/)
 
 - 💬 Ask me about: **JavaScript (ES6) HTML5 AND CSS3**
 
