@@ -105,7 +105,7 @@ I'm<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-<a href="https://github.com/Abosi-Godwin/Solly-store" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Solly-store&title_color=ffd43b&text_color=ffffff&icon_color=ffa65a&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/Abosi-Godwin/Solly-store" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Solly-store&title_color=ffd43b&text_color=ffffff&icon_color=ffd43b&bg_color=000000&hide_border=true&locale=en" />
 </a>
 </div>
 
