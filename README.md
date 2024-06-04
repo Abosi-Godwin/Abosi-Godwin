@@ -10,6 +10,7 @@
 
 <br>
 <br>
+<div align="left" width="100%">
 <p align="left"> <a href="https://twitter.com/shopify_ecom" target="blank"><img src="https://img.shields.io/twitter/follow/shopify_ecom?logo=twitter&style=for-the-badge" alt="shopify_ecom" /></a> </p>
 
 - 🔭 I’m currently working on: [Solly store](https://solly-store.vercel.app/)
@@ -22,6 +23,7 @@
 
 - 📫 How to reach me: **bbnl6060@gmail.com**
 
+</div>
 
 <hr>
 <br>
