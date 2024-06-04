@@ -10,6 +10,7 @@
 
 <br>
 <br>
+
 <div align="left" width="100%">
 <p align="left"> <a href="https://twitter.com/shopify_ecom" target="blank"><img src="https://img.shields.io/twitter/follow/shopify_ecom?logo=twitter&style=for-the-badge" alt="shopify_ecom" /></a> </p>
 
@@ -42,7 +43,7 @@
 <br>
 
 
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left" style="color:#FFAA00">Connect With Me:</h3>
 <p align="left">
 
 <a href="https://codepen.io/godwin660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="godwin660" height="30" width="40" /></a>
