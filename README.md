@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on: [Solly store](https://solly-store.vercel.app/)
 
-- 🌱 I’m currently learning: **JavaScript, ReactJs, ExpressJs and NextJs**
+- 🌱 I’m currently learning: **JavaScript and ReactJs**
 
 - 👨‍💻 All of my projects are available : [Here](https://abosi-godwin.github.io/)
 
