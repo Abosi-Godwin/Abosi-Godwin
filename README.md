@@ -90,25 +90,6 @@
 <br>
 
 
-<!-- stats      -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abosi-godwin&theme=github_dark&&show_icons=true&locale=en&layout=compact" alt="abosi-godwin" /></p>
-
-<hr>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abosi-godwin&theme=github_dark&show_icons=true&locale=en" alt="abosi-godwin" /></p>
-
-
-<hr>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abosi-godwin&theme=github_dark" alt="abosi-godwin" /></p>
-
-<hr/>
-<br/>
-
-
-
-
 <div width="100%" align="center">
 
 <b>My GitHub Stats</b>
