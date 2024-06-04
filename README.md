@@ -79,7 +79,7 @@
 <p>
 <h3 align="left">Softwares I Use</h3>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,xd,codepen,discord,postman,stackoverflow,twitter,wordpress,firebase,github,gmail,linkedin,netlify,figma&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,xd,codepen,discord,postman,stackoverflow,twitter,wordpress,firebase,github,gmail,linkedin,netlify,figma&theme=dark&perline=5" />
   </a>
 </p>
 
