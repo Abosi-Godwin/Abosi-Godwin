@@ -1,4 +1,5 @@
-I'm<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
+<div align="center">
+<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 <h1 align="center">Hi 👋,<br>I am Abosi Godwin</h1>
 
 <h2 align="center">
@@ -116,3 +117,5 @@ I'm<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20into%20loyal%20customers.&type=horizontal&bg_color=000000)](#)
+
+</div>
