@@ -107,11 +107,11 @@ I'm<img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 
 <div width="100%" align="center">
 <a href="https://github.com/Abosi-Godwin/Solly-store" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Solly-store&title_color=ffa65a&text_color=ffffff&icon_color=ffa65a&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-<hr />
-<br />
-<br/>
-<br/>
+</div>
+<hr>
+<br>
+<br>
+<br>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20into%20loyal%20customers.&type=horizontal&theme=dark)](#)
