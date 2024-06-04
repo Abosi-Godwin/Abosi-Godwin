@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available : [Here](https://abosi-godwin.github.io/)
 
-- 💬 Ask me about: **JavaScript (ES6) HTML5 AND CSS3**
+- 💬 Ask me about: **JavaScript(ES6), HTML5 AND CSS3**
 
 - 📫 How to reach me: **bbnl6060@gmail.com**
 
@@ -43,7 +43,7 @@
 <br>
 
 
-<h3 align="left" style="color:#FFAA00">Connect With Me:</h3>
+<h3 align="left" style="color:#FFAA00" color="red">Connect With Me:</h3>
 <p align="left">
 
 <a href="https://codepen.io/godwin660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="godwin660" height="30" width="40" /></a>
