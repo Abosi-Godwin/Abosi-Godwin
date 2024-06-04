@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:#000000">
 <img src="/Abosi-Godwin.png" alt="Abosi Godwin"/>
 <h1 align="center">Hi 👋,<br>I am Abosi Godwin</h1>
 
