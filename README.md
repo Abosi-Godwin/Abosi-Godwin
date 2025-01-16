@@ -113,5 +113,5 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20into%20loyal%20customers.&type=horizontal&bg_color=000000)](#)
 
-[![Godwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abosi-Godwin)](https://github.com/Abosi-Godwin/github-readme-activity-graph)
+[![Godwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&theme=react-dark)](https://github.com/Abosi-Godwin/github-readme-activity-graph)
 </div>
