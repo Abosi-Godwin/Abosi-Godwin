@@ -14,9 +14,9 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/AbosiGodwin" target="blank"><img src="https://img.shields.io/twitter/follow/AbosiGodwin?logo=twitter&style=for-the-badge" alt="AbosiGodwin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AbosiGodwin" target="blank"><img src="https://img.shields.io/X/follow/AbosiGodwin?logo=X&style=for-the-badge" alt="AbosiGodwin" /></a> </p>
 
-- 🔭 I’m currently working on [Solly store](https://solly-store.vercel.app/)
+- 🔭 I’m currently working on [Trexpenser](https://solly-store.vercel.app/)
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, ExpressJs and NextJs**
 
@@ -72,7 +72,7 @@
 
 <h3 align="left">Technologies I Use</h3>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,jquery&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,expressJs, typeScript&theme=dark" />
   </a>
 </p>
 
