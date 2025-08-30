@@ -14,7 +14,7 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/AbosiGodwin" target="blank"><img src="https://img.shields.io/twitter/follow/shopify_ecom?logo=twitter&style=for-the-badge" alt="shopify_ecom" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AbosiGodwin" target="blank"><img src="https://img.shields.io/twitter/follow/AbosiGodwin?logo=twitter&style=for-the-badge" alt="AbosiGodwin" /></a> </p>
 
 - 🔭 I’m currently working on [Solly store](https://solly-store.vercel.app/)
 
@@ -51,7 +51,7 @@
 &nbsp; &nbsp;
 <a href="https://dev.to/abosigodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abosigodwin" height="30" width="40" /></a>
 &nbsp; &nbsp;
-<a href="https://twitter.com/shopify_ecom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shopify_ecom" height="30" width="40" /></a>
+<a href="https://twitter.com/AbosiGodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbosiGodwin" height="30" width="40" /></a>
 &nbsp; &nbsp;
 <a href="https://linkedin.com/in/abosigodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abosigodwin" height="30" width="40" /></a>
 &nbsp; &nbsp;
@@ -111,16 +111,17 @@
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-
 <a href="https://github.com/Abosi-Godwin/Trexpenser-pro" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Trexpenser-pro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
-<a href="https://github.com/Abosi-Godwin/Test-corrector" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Test-corrector&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center">
 
-</div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/Abosi-Godwin/Chirp-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Chirp-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<br /><br /><br /><br /><br />
+<a href="https://github.com/Abosi-Godwin/Abosi-Godwin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Abosi-Godwin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/Abosi-Godwin/Chirp-landing-page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Chirp-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Abosi-Godwin/Abosi-Godwin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Abosi-Godwin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+</div>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20intoloyal%20customers.&type=horizontal&theme=dark)](#)
 
 [![Godwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abosi-Godwin)](https://github.com/Abosi-Godwin/github-readme-activity-graph)
