@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on [**Trexpenser**](https://solly-store.vercel.app/)  
+- 🔭 I’m currently working on [**Trexpenser**](https://trexpenser-pro.vercel.app/)  
 - 🌱 Learning **JavaScript, React, Express, Next.js**  
 - 💬 Ask me about **JavaScript (ES6), HTML5, CSS3**  
 - 👨‍💻 Portfolio: [abosi-godwin.github.io](https://abosi-godwin.github.io/)  
