@@ -13,7 +13,7 @@
 - 🌱 Deepening expertise in **Supabase, system design, and scalable full-stack architecture**  
 - 💬 Ask me about **Next.js, React, TypeScript, Tailwind CSS**  
 - 👨‍💻 Portfolio: [abosi.vercel.app](https://abosi.vercel.app/)  
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b6d4d4d8da80868086f6d1dbd7dfda98d5d9db">[email&#160;protected]</a>**
+- 📫 Reach me at **[email protected]**
 
 ---
 
@@ -43,6 +43,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abosi-Godwin&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abosi-godwin&theme=github_dark&show_icons=true&hide_border=true" height="160" />
@@ -52,6 +59,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abosi-godwin&theme=github_dark&hide_border=true" height="160" />
 </p>
+
+---
+
+### ⏱ Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!-- This block is auto-updated weekly by the WakaTime GitHub Action -->
+<!--END_SECTION:waka-->
+
+> **To activate:** Sign up at [wakatime.com](https://wakatime.com) → install the WakaTime extension in VS Code → add the [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action to this repo. It will populate and auto-update this section every week.
 
 ---
 
