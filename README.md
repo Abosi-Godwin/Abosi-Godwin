@@ -1,19 +1,19 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I’m Abosi Godwin</h1>
-<h3 align="center">Shopify Store Designer | Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Abosi Godwin</h1>
+<h3 align="center">Frontend Developer — Next.js · React · TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFAA00&vCenter=true&width=600&lines=Shopify+Store+Design+Expert;Custom+Shopify+Theme+Customization;Ecommerce+Marketing+Specialist;Frontend+Web+Developer" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFAA00&vCenter=true&width=600&lines=Frontend+Developer+%7C+Next.js+%26+React;TypeScript+%7C+Tailwind+CSS;Full-Stack+Web+Apps+%26+Landing+Pages;Building+for+Nigerian+SMEs+%26+Beyond" alt="Typing intro"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on [**Trexpenser**](https://trexpenser-pro.vercel.app/)  
-- 🌱 Learning **JavaScript, React, Express, Next.js**  
-- 💬 Ask me about **JavaScript (ES6), HTML5, CSS3**  
-- 👨‍💻 Portfolio: [abosi-godwin.github.io](https://abosi-godwin.github.io/)  
-- 📫 Reach me at **bbnl6060@gmail.com**
+- 🔭 I'm currently working on [**Trexpenser**](https://trexpenser-pro.vercel.app/)  
+- 🌱 Deepening expertise in **Supabase, system design, and scalable full-stack architecture**  
+- 💬 Ask me about **Next.js, React, TypeScript, Tailwind CSS**  
+- 👨‍💻 Portfolio: [abosi.vercel.app](https://abosi.vercel.app/)  
+- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b6d4d4d8da80868086f6d1dbd7dfda98d5d9db">[email&#160;protected]</a>**
 
 ---
 
@@ -65,7 +65,7 @@
 ---
 
 ### 💡 Inspirational Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Empower%20your%20Shopify%20store%20with%20captivating%20frontend%20designs%20that%20turn%20visitors%20into%20loyal%20customers.&theme=dark&type=horizontal)](#)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Ship+fast%2C+iterate+faster.+Good+code+solves+real+problems+for+real+people.&theme=dark&type=horizontal)](#)
 
 ---
 
@@ -73,7 +73,3 @@
 [![Godwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abosi-Godwin&theme=react-dark)](https://github.com/Abosi-Godwin/github-readme-activity-graph)
 
 ---
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abosi-godwin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
