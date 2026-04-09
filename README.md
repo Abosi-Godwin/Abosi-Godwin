@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I'm currently working on [**Trexpenser**](https://trexpenser-dashboard.vercel.app/)  
+- 🔭 I'm currently working on [**Trexpenser**](https://trexpenser.vercel.app/)  
 - 🌱 Deepening expertise in **Supabase, system design, and scalable full-stack architecture**  
 - 💬 Ask me about **Next.js, React, TypeScript, Tailwind CSS**  
 - 👨‍💻 Portfolio: [abosi.vercel.app](https://abosi.vercel.app/)  
