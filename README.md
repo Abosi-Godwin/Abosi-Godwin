@@ -64,7 +64,35 @@
 
 ### ⏱ Weekly Coding Activity
 <!--START_SECTION:waka-->
-<!-- This block is auto-updated weekly by the WakaTime GitHub Action -->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 45 mins        █████████████████░░░░░░░░   68.19 % 
+CSS                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ████████████░░░░░░░░░░░░░   48.39 % 
+HTML                     9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Abosi-Godwin/Abosi-Godwin/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/04/2026 02:26:47 UTC
 <!--END_SECTION:waka-->
 
 > **To activate:** Sign up at [wakatime.com](https://wakatime.com) → install the WakaTime extension in VS Code → add the [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action to this repo. It will populate and auto-update this section every week.
