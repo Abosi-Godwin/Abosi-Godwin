@@ -95,14 +95,12 @@ CSS                      1 repo              █░░░░░░░░░░�
  Last Updated on 09/04/2026 02:26:47 UTC
 <!--END_SECTION:waka-->
 
-> **To activate:** Sign up at [wakatime.com](https://wakatime.com) → install the WakaTime extension in VS Code → add the [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action to this repo. It will populate and auto-update this section every week.
-
 ---
 
 ### 📂 Featured Projects
 <div align="center">
-  <a href="https://github.com/Abosi-Godwin/Trexpenser-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=Trexpenser-pro&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Abosi-Godwin/sureplug">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abosi-Godwin&repo=sureplug&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
