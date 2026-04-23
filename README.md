@@ -40,12 +40,26 @@
 </p>
 
 ---
+### 🎯 Currently Building
+<div align="center">
 
-### 🏆 GitHub Trophies
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| [**Trexpenser**](https://trexpenser.vercel.app/) | Financial management SaaS — expenses, income, budgets, AI insights | Next.js · Supabase · Gemini AI | 🟢 Live |
+| [**SurePlug Auto**](https://sureplug.vercel.app/) | Motor parts landing page for Mercedes-Benz & Lexus dealers | Next.js · Tailwind v4 · Framer Motion | 🟢 Live |
+
+</div>
+
+---
+
+### 💼 Open to Work
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abosi-Godwin&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <a href="https://abosi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FFAA00?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.upwork.com/freelancers/abosigodwin"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 ---
 
 ### 📊 GitHub Stats
@@ -79,19 +93,14 @@
 ---
 
 ### 💡 Inspirational Quote
-[
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Ship+fast%2C+iterate+faster.+Good+code+solves+real+problems+for+real+people.&theme=dark&type=horizontal)
 
-](#)
 
 ---
 
 ### 📈 Contribution Graph
-[
 
 ![Godwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abosi-Godwin&theme=react-dark)
-
-](https://github.com/Abosi-Godwin/github-readme-activity-graph)
 
 ---
