@@ -46,7 +46,7 @@
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
 | [**Trexpenser**](https://trexpenser.vercel.app/) | Financial management SaaS — expenses, income, budgets, AI insights | Next.js · Supabase · Gemini AI | 🟢 Live |
-| [**SurePlug Auto**](https://sureplug.vercel.app/) | Motor parts landing page for Mercedes-Benz & Lexus dealers | Next.js · Tailwind v4 · Framer Motion | 🟢 Live |
+| [**SurePlug Auto**](https://sureplugautos.vercel.app/) | Motor parts landing page for Mercedes-Benz & Lexus dealers | Next.js · Tailwind v4 · Framer Motion | 🟢 Live |
 
 </div>
 
@@ -55,8 +55,8 @@
 ### 💼 Open to Work
 <p align="center">
   <a href="https://abosi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FFAA00?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.upwork.com/freelancers/abosigodwin"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/burbybon"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:bbnl6060@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
