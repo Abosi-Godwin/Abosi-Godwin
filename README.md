@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building [**Trexpenser**](https://trexpenser.vercel.app/) — a full-stack financial management SaaS
+- 🔭 Currently building [**Sproute**](https://sproute-landing.vercel.app/) — a freelance client acquisition and management tool
 - 🌱 Deepening expertise in **Supabase, system design, and scalable full-stack architecture**
 - 💬 Ask me about **Next.js, React, TypeScript, Tailwind CSS, Supabase**
 - 👨‍💻 Portfolio: [abosi.vercel.app](https://abosi.vercel.app/)
@@ -45,8 +45,9 @@
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
+| [**Sproute**](https://sproute-landing.vercel.app/) | Client acquisition tool for freelancers | ReactJs · Tailwind v4 · SERPAPI · Zustand · Supabase | 🟢 Live |
 | [**Trexpenser**](https://trexpenser.vercel.app/) | Financial management SaaS — expenses, income, budgets, AI insights | Next.js · Supabase · Gemini AI | 🟢 Live |
-| [**SurePlug Auto**](https://sureplugautos.vercel.app/) | Motor parts landing page for Mercedes-Benz & Lexus dealers | Next.js · Tailwind v4 · Framer Motion | 🟢 Live |
+
 
 </div>
 
