@@ -10,16 +10,16 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     
-    # 1. Grant the workflow permission to commit and push to your repo
+    # REQUIRED: Allows the action to push the stats back to your repo
     permissions:
       contents: write 
 
     steps:
-      # 2. Check out the repository so the action can edit the README file
+      # REQUIRED: Downloads your code into the runner
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Update WakaTime Stats
+      - name: Update Readme with Metrics
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
