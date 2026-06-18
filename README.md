@@ -85,8 +85,9 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ████████████████████████░   95.08 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+TypeScript               2 hrs 32 mins       █████████████████████░░░░   82.47 % 
+Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Abosi-Godwin/Abosi-Godwin/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 04:11:04 UTC
+ Last Updated on 18/06/2026 04:02:00 UTC
 <!--END_SECTION:waka-->
 
 ---
