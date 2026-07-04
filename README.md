@@ -77,7 +77,7 @@
 
 ### ⏱ Weekly Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,11 +85,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               59 mins             ██████████████░░░░░░░░░░░   54.56 % 
-JSON                     37 mins             █████████░░░░░░░░░░░░░░░░   34.36 % 
-Text                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               2 hrs 36 mins       ███████████████░░░░░░░░░░   58.29 % 
+TypeScript               59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+JSON                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Abosi-Godwin/Abosi-Godwin/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 03:18:10 UTC
+ Last Updated on 04/07/2026 02:56:54 UTC
 <!--END_SECTION:waka-->
 
 ---
