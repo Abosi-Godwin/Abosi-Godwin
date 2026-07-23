@@ -77,7 +77,7 @@
 
 ### ⏱ Weekly Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,9 +85,9 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 33 mins       ████████████████████████░   95.34 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TypeScript               28 mins             ███████████████░░░░░░░░░░   61.73 % 
+CSS                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Text                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +106,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Abosi-Godwin/Abosi-Godwin/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 02:40:10 UTC
+ Last Updated on 23/07/2026 02:45:37 UTC
 <!--END_SECTION:waka-->
 
 ---
