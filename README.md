@@ -77,8 +77,6 @@
 
 ### ⏱ Weekly Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -106,7 +104,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Abosi-Godwin/Abosi-Godwin/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 02:45:37 UTC
+ Last Updated on 24/07/2026 02:41:32 UTC
 <!--END_SECTION:waka-->
 
 ---
