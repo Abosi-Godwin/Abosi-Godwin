@@ -79,15 +79,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               28 mins             ███████████████░░░░░░░░░░   61.73 % 
-CSS                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Text                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -104,7 +95,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Abosi-Godwin/Abosi-Godwin/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:41:32 UTC
+ Last Updated on 25/07/2026 02:39:10 UTC
 <!--END_SECTION:waka-->
 
 ---
